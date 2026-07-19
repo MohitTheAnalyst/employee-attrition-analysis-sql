@@ -205,7 +205,7 @@ The following analysis combines multiple employee attributes to better understan
 
 ### Result
 
-![Multi-Attrition](hr_analysis_result_screenshots/tenure_and promotion.PNG)
+![Multi-Attrition](hr_analysis_result_screenshots/tenure_and_promotion.PNG)
 
 ### Insights
 
