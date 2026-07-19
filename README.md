@@ -54,7 +54,8 @@ The HR department wants to understand:
 
 ### KPI Result
 
-> **(Insert KPI Result Screenshot Here)**
+![KPI](hr_analysis_result_screenshots/KPI_total_emp.PNG) ![KPI](hr_analysis_result_screenshots/KPI_total_attrition.PNG)
+![KPI](hr_analysis_result_screenshots/KPI_total_emp_after_attrition.PNG) ![KPI](hr_analysis_result_screenshots/KPI_total_attrition_rate.PNG)
 
 ### Insights
 
@@ -67,7 +68,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Department Attrition Screenshot Here)**
+![Contribution](hr_analysis_result_screenshots/department_based_contribution.PNG)
 
 ### Insights
 
@@ -80,7 +81,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Department Contribution Screenshot Here)**
+![Contribution](hr_analysis_result_screenshots/total_attrition_contribution.PNG)
 
 ### Insights
 
@@ -93,7 +94,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Overtime Analysis Screenshot Here)**
+![Attrition](hr_analysis_result_screenshots/attrition_by_overtime.PNG)
 
 ### Insights
 
@@ -107,7 +108,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Annual Training Screenshot Here)**
+![Attrition](hr_analysis_result_screenshots/attrition_by_annual_training_hrs.PNG)
 
 ### Insights
 
@@ -121,7 +122,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Performance Rating Screenshot Here)**
+![Attrition](hr_analysis_result_screenshots/attrition_by_performance.PNG)
 
 ### Insights
 
@@ -135,7 +136,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Role Level Screenshot Here)**
+![Attrition](hr_analysis_result_screenshots/attrition_by_role_level.PNG)
 
 ### Insights
 
@@ -149,7 +150,7 @@ The HR department wants to understand:
 
 ### Result
 
-> **(Insert Salary Band Screenshot Here)**
+![Attrition](hr_analysis_result_screenshots/attrition_by_salary_band.PNG)
 
 ### Insights
 
@@ -175,7 +176,7 @@ The following analysis combines multiple employee attributes to better understan
 
 ### Result
 
-> **(Insert Tenure & Role Level Result Screenshot Here)**
+![Multi-Attrition](hr_analysis_result_screenshots/tenure_and_role_level_attrition1.PNG)
 
 ### Insights
 
@@ -190,7 +191,7 @@ The following analysis combines multiple employee attributes to better understan
 
 ### Result
 
-> **(Insert Tenure & Job Satisfaction Result Screenshot Here)**
+![Multi-Attrition](hr_analysis_result_screenshots/tenure_and_job_satisfaction.PNG)
 
 ### Insights
 
@@ -204,7 +205,7 @@ The following analysis combines multiple employee attributes to better understan
 
 ### Result
 
-> **(Insert Tenure & Promotion Result Screenshot Here)**
+![Multi-Attrition](hr_analysis_result_screenshots/tenure_and_promotion.PNG)
 
 ### Insights
 
@@ -218,7 +219,7 @@ The following analysis combines multiple employee attributes to better understan
 
 ### Result
 
-> **(Insert Tenure & Work-Life Balance Result Screenshot Here)**
+![Multi-Attrition](hr_analysis_result_screenshots/tenure_and_work_life_balance.PNG)
 
 ### Insights
 
@@ -232,7 +233,7 @@ The following analysis combines multiple employee attributes to better understan
 
 ### Result
 
-> **(Insert Employee Summary Result Screenshot Here)**
+![Employee](hr_analysis_result_screenshots/employee_risk_profile.PNG)
 
 ### Insights
 
@@ -319,17 +320,6 @@ This project demonstrates practical SQL skills commonly used in real-world busin
 - Business KPI Calculations
 - Multi-factor Workforce Analysis
 - Data Aggregation and Reporting
-
----
-
-# Key Takeaways
-
-- Calculated HR KPIs using SQL.
-- Performed department-level and contribution analysis.
-- Evaluated multiple employee attributes associated with attrition.
-- Conducted multi-factor analysis by combining tenure with workforce characteristics.
-- Generated business-focused insights supported by SQL analysis.
-- Developed practical, evidence-based HR recommendations.
 
 ---
 
